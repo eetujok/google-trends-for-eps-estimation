@@ -1,0 +1,501 @@
+keyword,parent,company,funnel,until_date,status,date_range_start,date_range_end,data_points
+constantin film,mister car wash,Highlight Communications AGD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+team marketing,mister car wash,Highlight Communications AGD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+highlight event & entertainment,answear,Highlight Communications AGD,branded,2010-09-30,NOT_NORMALIZED,,,0
+constantin television,sandro,Highlight Communications AGD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+basic-fit,answear,Basic-Fit NVD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rightmove,sandro,Rightmove plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sam's town las vegas,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+suncoast hotel and casino,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+california hotel and casino,answear,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+fremont hotel and casino,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+main street station casino brewery and hotel,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+gold coast hotel and casino,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+orleans hotel and casino,answear,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aliante casino hotel spa,trustpilot,Boyd Gaming Corporation,branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+cannery casino hotel,american eagle outfitters,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+eastside cannery casino & hotel,boot barn,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jokers wild casino,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+eldorado casino henderson,answear,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+blue chip casino hotel spa,trustpilot,Boyd Gaming Corporation,branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+belterra casino resort,webjet,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+par-a-dice hotel casino,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+diamond jo dubuque,american eagle outfitters,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+diamond jo worth,webjet,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ameristar kansas city,answear,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ameristar st charles,boot barn,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ameristar vicksburg,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kansas star casino,trustpilot,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ip casino resort spa,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+evangeline downs racetrack & casino,webjet,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+delta downs racetrack casino & hotel,webjet,Boyd Gaming Corporation,branded,2010-03-31,NOT_NORMALIZED,,,0,No data for delta downs racetrack casino & hotel in window 1
+treasure chest casino,mister car wash,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sam's town shreveport,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sam's town tunica,webjet,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+valley forge casino resort,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+b connected,webjet,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+boyd sports,under armour,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rusta,webjet,Rusta ABD,branded,2024-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+remington,under armour,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rayovac,webjet,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+varta,under armour,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+george foreman,sandro,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+black+decker,trustpilot,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+toastmaster,card factory,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+farberware,under armour,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+proctor silex,boot barn,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+russell hobbs,under armour,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kwikset,mister car wash,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+baldwin,card factory,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+national hardware,mister car wash,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pfister,mister car wash,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+stanley,boot barn,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tetra,trustpilot,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+marineland,mister car wash,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+8in1,card factory,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+dingo,under armour,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+furminator,sandro,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+iams,card factory,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+eukanuba,webjet,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+spectracide,american eagle outfitters,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hot shot,under armour,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+repel,boot barn,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cutter,mister car wash,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+garden safe,sandro,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+black flag,mister car wash,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+adams,boot barn,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+farnam,card factory,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420798819509498881) | keyword='farnam', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+healthy hide,webjet,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+steve madden,boot barn,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+madden girl,card factory,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+dolce vita,boot barn,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+betsey johnson,boot barn,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+blondo,under armour,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+bb dakota,trustpilot,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+l mae,sandro,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+big buddha,american eagle outfitters,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+report footwear,american eagle outfitters,"Steven Madden, Ltd.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+domino's pizza,sandro,Domino's Pizza Enterprises LimitedD,branded,2014-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+atm grupa,mister car wash,ATM Grupa S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+atm rozrywka tv,card factory,ATM Grupa S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+atm studio,trustpilot,ATM Grupa S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+valvoline,trustpilot,Valvoline Inc.,branded,2016-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+valvoline instant oil change,card factory,Valvoline Inc.,branded,2016-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+zerex,boot barn,Valvoline Inc.,branded,2016-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+eagle one,under armour,Valvoline Inc.,branded,2016-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+humana abd,trustpilot,Humana ABD,branded,2016-06-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+black rock coffee bar,webjet,"Black Rock Coffee Bar, Inc.",branded,2025-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sports direct,under armour,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+house of fraser,american eagle outfitters,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+flannels,american eagle outfitters,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+game digital,mister car wash,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+evans cycles,sandro,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jack wills,boot barn,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+usc,boot barn,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+everlast,webjet,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lonsdale,card factory,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+slazenger,under armour,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+dunlop,webjet,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+agent provocateur,american eagle outfitters,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+missguided,under armour,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+i saw it first,answear,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+swoon,mister car wash,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+matchesfashion,under armour,Frasers Group PLC,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+arhaus,trustpilot,"Arhaus, Inc.",branded,2021-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+williams sonoma,american eagle outfitters,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pottery barn,mister car wash,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pottery barn kids,answear,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pbteen,card factory,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+west elm,trustpilot,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rejuvenation,boot barn,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+mark and graham,webjet,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+williams sonoma home,mister car wash,"Williams-Sonoma, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+answear,sandro,Answear.com SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+caesars entertainment,card factory,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+caesars palace,american eagle outfitters,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+harrah's,under armour,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+horseshoe,webjet,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rio allsuite hotel & casino,sandro,"Caesars Entertainment, Inc.",branded,2012-03-31,NOT_NORMALIZED,,,0,No data for rio allsuite hotel & casino in window 1
+planet hollywood resort & casino,sandro,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+paris las vegas,under armour,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+bally's las vegas,answear,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+flamingo las vegas,card factory,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the linq hotel + experience,sandro,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the cromwell las vegas,under armour,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+nobu hotel,boot barn,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+caesars sportsbook,american eagle outfitters,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+world series of poker,trustpilot,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+caesars rewards,under armour,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+petco,card factory,"Petco Health and Wellness Company, Inc.",branded,2020-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+unleashed by petco,american eagle outfitters,"Petco Health and Wellness Company, Inc.",branded,2020-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+vetco total care,webjet,"Petco Health and Wellness Company, Inc.",branded,2020-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pupbox,answear,"Petco Health and Wellness Company, Inc.",branded,2020-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+surcare,webjet,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lime lite,card factory,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+clean n fresh,mister car wash,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+oven pride,trustpilot,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+host,under armour,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+vapona,webjet,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+decorex,mister car wash,McBride plc,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+blink charging,under armour,Blink Charging Co.,branded,2018-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420808186862545921) | keyword='blink charging', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+semaconnect,boot barn,Blink Charging Co.,branded,2018-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+blue corner,trustpilot,Blink Charging Co.,branded,2018-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ev connect,american eagle outfitters,Blink Charging Co.,branded,2018-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+electrolux,trustpilot,Electrolux AB Class AD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aeg,under armour,Electrolux AB Class AD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+frigidaire,trustpilot,Electrolux AB Class AD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+zanussi,under armour,Electrolux AB Class AD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+eureka,mister car wash,Electrolux AB Class AD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hellofresh,under armour,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+green chef,american eagle outfitters,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+everyplate,answear,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+factor,american eagle outfitters,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+chef's plate,card factory,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+youfoodz,under armour,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+goodfood,answear,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+vestis,sandro,Vestis Corporation,branded,2023-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aramark uniform services,trustpilot,Vestis Corporation,branded,2023-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kindercare,trustpilot,"KinderCare Learning Companies, Inc.",branded,2024-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+champions,american eagle outfitters,"KinderCare Learning Companies, Inc.",branded,2024-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kindercare at work,sandro,"KinderCare Learning Companies, Inc.",branded,2024-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cambridge nanny agency,webjet,"KinderCare Learning Companies, Inc.",branded,2024-09-30,NOT_NORMALIZED,,,0,No data for cambridge nanny agency in window 1
+lubawa,american eagle outfitters,Lubawa SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+miranda,american eagle outfitters,Lubawa SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+effect-system,trustpilot,Lubawa SAD,branded,2010-01-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+maskpol,boot barn,Lubawa SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+litex promo,under armour,Lubawa SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the strat hotel casino & skypod,answear,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+arizona charlie's decatur,under armour,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+arizona charlie's boulder,sandro,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aquarius casino resort,boot barn,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+edgewater casino resort,card factory,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rocky gap casino resort,under armour,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pt's pub,trustpilot,"Golden Entertainment, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420811848313749505) | keyword='pt's pub', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+sierra gold,sandro,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sg bar,answear,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sean patrick's,sandro,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aces & ales,trustpilot,"Golden Entertainment, Inc.",branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+playboy,answear,"Playboy, Inc.",branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hasbro,boot barn,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+nerf,webjet,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+playdoh,webjet,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+monopoly,trustpilot,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+transformers,sandro,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+my little pony,boot barn,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+g.i. joe,sandro,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+magic the gathering,boot barn,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+dungeons dragons,webjet,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+playskool,answear,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+littlest pet shop,trustpilot,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+baby alive,webjet,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+furby,mister car wash,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+power rangers,card factory,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+peppa pig,boot barn,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pj masks,sandro,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+beyblade,card factory,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+twister,answear,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jenga,american eagle outfitters,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+candy land,answear,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the game of life,boot barn,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+clue,card factory,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+risk,boot barn,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+scrabble,under armour,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cranium,american eagle outfitters,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+wittchen,trustpilot,Wittchen,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kay jewelers,boot barn,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jared the galleria of jewelry,answear,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+zales,mister car wash,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+h samuel,card factory,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ernest jones,webjet,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+peoples jewellers,american eagle outfitters,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pagoda,sandro,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+james allen,sandro,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rocksbox,trustpilot,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+diamonds direct,american eagle outfitters,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+blue nile,card factory,Signet Jewelers Limited,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+carter's,mister car wash,"Carter's, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+oshkosh b'gosh,answear,"Carter's, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+skip hop,trustpilot,"Carter's, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+little planet,boot barn,"Carter's, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+yalla,mister car wash,Yalla Group Ltd. Sponsored ADR Class ADR,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+yalla ludo,boot barn,Yalla Group Ltd. Sponsored ADR Class ADR,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+yallaplay,mister car wash,Yalla Group Ltd. Sponsored ADR Class ADR,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rh,trustpilot,Restoration Hardware,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rh baby & child,american eagle outfitters,Restoration Hardware,branded,2015-10-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+rh teen,boot barn,Restoration Hardware,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rh modern,mister car wash,Restoration Hardware,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rh hospitality,answear,Restoration Hardware,branded,2015-10-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+theon,trustpilot,Theon International PlcD,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gloria jean's coffees,card factory,Retail Food Group LimitedD,branded,2013-12-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+donut king,under armour,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+brumby's bakery,webjet,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+michel's patisserie,mister car wash,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+crust gourmet pizza bar,american eagle outfitters,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pizza capers,webjet,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the coffee guy,trustpilot,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cafe 63,boot barn,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+suncar,answear,SunCar Technology Group Inc.,branded,2025-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+smart parking,american eagle outfitters,Smart Parking LimitedD,branded,2025-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jet2com,sandro,Jet2 PLC,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jet2holidays,boot barn,Jet2 PLC,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lionsgate,answear,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+summit entertainment,trustpilot,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+starz,answear,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pantelion films,american eagle outfitters,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lionsgate play,webjet,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the hunger games,trustpilot,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+john wick,boot barn,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+twilight,mister car wash,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+divergent,american eagle outfitters,Lionsgate Studios Corp,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hamilton beach,american eagle outfitters,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+proctor silex,boot barn,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+west bend,sandro,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+trueair,mister car wash,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+chi,american eagle outfitters,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+wolf gourmet,webjet,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hamilton beach commercial,answear,Hamilton Beach Brands Holding Company,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+richtech robotics,answear,Richtech Robotics Inc.,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+adam,answear,Richtech Robotics Inc.,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gracie,boot barn,Richtech Robotics Inc.,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+robochef,card factory,Richtech Robotics Inc.,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+mini-bot,answear,Richtech Robotics Inc.,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+wynn las vegas,answear,"Wynn Resorts, Limited",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+encore at wynn las vegas,webjet,"Wynn Resorts, Limited",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+wynn macau,sandro,"Wynn Resorts, Limited",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+encore at wynn macau,american eagle outfitters,"Wynn Resorts, Limited",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+wynn palace,card factory,"Wynn Resorts, Limited",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+encore boston harbor,card factory,"Wynn Resorts, Limited",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+howdens,trustpilot,Howden Joinery Group PLC,branded,2015-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+planet fitness,answear,"Planet Fitness, Inc.",branded,2015-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+onewater marine,american eagle outfitters,OneWater Marine Inc.,branded,2019-12-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+singleton marine,webjet,OneWater Marine Inc.,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+legendary marine,webjet,OneWater Marine Inc.,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+grande yachts international,trustpilot,OneWater Marine Inc.,branded,2019-12-31,NOT_NORMALIZED,,,0,No data for grande yachts international in window 1
+naples boat mart,boot barn,OneWater Marine Inc.,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+plantation boat mart & marina,american eagle outfitters,OneWater Marine Inc.,branded,2019-12-31,NOT_NORMALIZED,,,0,No data for plantation boat mart & marina in window 1
+quality boats,american eagle outfitters,OneWater Marine Inc.,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+galati yacht sales,card factory,OneWater Marine Inc.,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+plato's closet,card factory,Winmark Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+once upon a child,answear,Winmark Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+play it again sports,sandro,Winmark Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+style encore,trustpilot,Winmark Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+music go round,under armour,Winmark Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+afya,webjet,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+medcel,card factory,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+iclinic,trustpilot,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pebmed,boot barn,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+whitebook,trustpilot,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sanarflix,under armour,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cardiopapers,american eagle outfitters,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+academia médica,webjet,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+faculdade de ciências médicas de minas gerais (fcmmg),webjet,Afya Limited,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+centro universitário são lucas (unisl),boot barn,Afya Limited,branded,2019-06-30,NOT_NORMALIZED,,,0,No data for centro universitário são lucas (unisl) in window 1
+faculdade de medicina nova esperança (famene),boot barn,Afya Limited,branded,2019-06-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+ruger,webjet,"Sturm, Ruger & Company, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cettire,mister car wash,Cettire Ltd.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+culti milano,webjet,Culti Milano SpA,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+fjällräven,under armour,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tierra,mister car wash,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hanwag,mister car wash,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+primus,trustpilot,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+brunton,under armour,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+royal robbins,card factory,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+globetrotter,answear,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+naturkompaniet,card factory,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+partioaitta,mister car wash,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+friluftsland,mister car wash,Fenix Outdoor International AG Series BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+clorox,answear,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pinesol,under armour,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+liquidplumr,card factory,Clorox Company (The),branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+glad,sandro,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kingsford,mister car wash,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hidden valley,trustpilot,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+fresh step,american eagle outfitters,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+scoop away,webjet,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+burt's bees,webjet,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+brita,boot barn,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+formula 409,sandro,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tilex,under armour,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+s.o.s,sandro,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kitchen bouquet,answear,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kc masterpiece,mister car wash,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ayudín,american eagle outfitters,Clorox Company (The),branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+green works,answear,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+renewlife,boot barn,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rainbow light,answear,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+natural vitality,card factory,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hooker furniture,webjet,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sam moore furniture,mister car wash,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+bradington young,trustpilot,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+accentrics home,webjet,Hooker Furnishings Corporation,branded,2010-01-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+h contract,under armour,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pulaski furniture,mister car wash,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+samuel lawrence furniture,mister car wash,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hbf,webjet,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hbf textiles,mister car wash,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+shenandoah furniture,mister car wash,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sunset west,card factory,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+m,card factory,Hooker Furnishings Corporation,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+arlen sad,answear,Arlen SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aristocrat,card factory,Aristocrat Leisure LimitedD,branded,2014-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+product madness,trustpilot,Aristocrat Leisure LimitedD,branded,2014-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+plarium,trustpilot,Aristocrat Leisure LimitedD,branded,2014-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+big fish games,mister car wash,Aristocrat Leisure LimitedD,branded,2014-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420830450601439233) | keyword='big fish games', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+havertys,sandro,"Haverty Furniture Companies, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+club lime,sandro,Viva Leisure Ltd.D,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420830713802415105) | keyword='club lime', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+hiit republic,trustpilot,Viva Leisure Ltd.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+plus fitness,answear,Viva Leisure Ltd.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pinnacle health clubs,boot barn,Viva Leisure Ltd.D,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for pinnacle health clubs in window 1
+studio.c,trustpilot,Viva Leisure Ltd.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gymmy,trustpilot,Viva Leisure Ltd.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+groundup,american eagle outfitters,Viva Leisure Ltd.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+angling direct,card factory,Angling Direct Plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+douglas,under armour,Douglas AGD,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+nocibé,answear,Douglas AGD,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the perfume shop,answear,Douglas AGD,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+parfumdreams,under armour,Douglas AGD,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+limoni,under armour,Douglas AGD,branded,2024-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+peloton,sandro,"Peloton Interactive, Inc.",branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+bijou brigitte,american eagle outfitters,Bijou Brigitte modische Accessoires AGD,branded,2010-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+six,boot barn,Bijou Brigitte modische Accessoires AGD,branded,2010-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+domino's pizza,mister car wash,DP Poland PLC,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+dr. miele,boot barn,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cosmed,under armour,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+mesoestetic,sandro,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+neostrata,under armour,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+heliocare,under armour,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+endocare,answear,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+isdin,answear,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sesderma,trustpilot,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+phformula,sandro,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+skinceuticals,mister car wash,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+filorga,card factory,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+masterbeef,boot barn,MasterBeef Group,branded,2010-01-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+steak n shake,american eagle outfitters,Biglari Holdings Inc.,branded,2016-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+western sizzlin,answear,Biglari Holdings Inc.,branded,2016-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+first guard insurance company,card factory,Biglari Holdings Inc.,branded,2016-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+maxim,card factory,Biglari Holdings Inc.,branded,2016-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the reef hotel casino,under armour,Reef Casino TrustD,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420834151604969473) | keyword='the reef hotel casino', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+cato,answear,Cato Corporation (The),branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+versona,under armour,Cato Corporation (The),branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+its fashion,trustpilot,Cato Corporation (The),branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+its fashion metro,webjet,Cato Corporation (The),branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+leifheit,mister car wash,Leifheit AGD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+soehnle,sandro,Leifheit AGD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gap,webjet,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+old navy,mister car wash,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+banana republic,mister car wash,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+athleta,sandro,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+intermix,card factory,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+janie and jack,american eagle outfitters,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hill city,boot barn,"Gap, Inc. (The)",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+chaparral boats,answear,Marine Products Corporation,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+robalo boats,trustpilot,Marine Products Corporation,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+vortex boats,american eagle outfitters,Marine Products Corporation,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+prosieben,card factory,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sat.1,mister car wash,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kabel eins,webjet,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sixx,american eagle outfitters,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sat.1 gold,sandro,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+prosieben maxx,card factory,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+puls 4,sandro,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+atv,webjet,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+joyn,answear,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+studio71,boot barn,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+verivox,mister car wash,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+parship,american eagle outfitters,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+elitepartner,webjet,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lovoo,mister car wash,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+meetme,american eagle outfitters,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+skout,boot barn,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tagged,card factory,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jochen schweizer,mister car wash,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+mydays,under armour,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+flaconi,american eagle outfitters,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+duluth trading company,webjet,Duluth Holdings Inc.,branded,2016-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+moncler,mister car wash,Moncler SpA,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+stone island,card factory,Moncler SpA,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+princess polly,under armour,a.k.a. Brands Holding Corp.,branded,2021-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+culture kings,american eagle outfitters,a.k.a. Brands Holding Corp.,branded,2021-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+petal & pup,trustpilot,a.k.a. Brands Holding Corp.,branded,2021-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rebdolls,webjet,a.k.a. Brands Holding Corp.,branded,2021-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+mnml,boot barn,a.k.a. Brands Holding Corp.,branded,2021-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+trustpilot,under armour,Trustpilot Group Plc,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sonos,trustpilot,"Sonos, Inc.",branded,2018-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+agora,webjet,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gazeta wyborcza,boot barn,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gazeta.pl,boot barn,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tok fm,american eagle outfitters,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+helios,webjet,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sport.pl,answear,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+wysokie obcasy,answear,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+radio złote przeboje,sandro,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+rock radio,trustpilot,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+next film,webjet,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+publio.pl,american eagle outfitters,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+goldenline,boot barn,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+metro,answear,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+jack in the box,answear,Jack In The Box Inc.,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+qdoba mexican eats,boot barn,Jack In The Box Inc.,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+dave & buster's,under armour,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+main event entertainment,answear,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+1stdibs,webjet,"1stdibs.com, Inc.",branded,2021-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+howe leather,boot barn,Schaffer Corporation LimitedD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+delta corporation,mister car wash,Schaffer Corporation LimitedD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+urbanstone,trustpilot,Schaffer Corporation LimitedD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lifterz,american eagle outfitters,Schaffer Corporation LimitedD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pennington,mister car wash,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+nylabone,card factory,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kaytee,sandro,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+aqueon,sandro,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+zilla,sandro,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+four paws,webjet,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+adams,mister car wash,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+farnam,card factory,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+petag,trustpilot,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+amdro,mister car wash,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sevin,under armour,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ironite,trustpilot,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+lilly miller,webjet,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+over'n out,under armour,Central Garden & Pet Company,branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517
+cadet,american eagle outfitters,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+droll yankees,answear,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tfh,trustpilot,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+coralife,american eagle outfitters,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+k&h pet products,answear,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gnc pets,trustpilot,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ark naturals,american eagle outfitters,Central Garden & Pet Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+knaus,card factory,Knaus Tabbert AGD,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7420845225733545985) | keyword='knaus', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+tabbert,boot barn,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+weinsberg,card factory,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+t@b,mister car wash,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+morelo,trustpilot,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+knaus tourer cuv,card factory,Knaus Tabbert AGD,branded,2010-01-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261
+knaus boxlife,card factory,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+weinsberg carabus,boot barn,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+weinsberg caracompact,american eagle outfitters,Knaus Tabbert AGD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+amica,webjet,Amica Spolka AkcyjnaD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hansa,american eagle outfitters,Amica Spolka AkcyjnaD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+gram,american eagle outfitters,Amica Spolka AkcyjnaD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cda,card factory,Amica Spolka AkcyjnaD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+tivoli,card factory,Tivoli A/SD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+nimb hotel,american eagle outfitters,Tivoli A/SD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+nu skin,sandro,"Nu Skin Enterprises, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+pharmanex,trustpilot,"Nu Skin Enterprises, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ageloc,webjet,"Nu Skin Enterprises, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+epoch,boot barn,"Nu Skin Enterprises, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+leon's,card factory,Leon's Furniture LimitedD,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+the brick,mister car wash,Leon's Furniture LimitedD,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cinemark,webjet,"Cinemark Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cinemark xd,webjet,"Cinemark Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cinemark movie club,sandro,"Cinemark Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+cinemark app,answear,"Cinemark Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hostelworld,webjet,Hostelworld Group Plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hostels.com,answear,Hostelworld Group Plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+hostelbookers,mister car wash,Hostelworld Group Plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+sportsman's warehouse,trustpilot,"Sportsman's Warehouse Holdings, Inc.",branded,2014-04-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+portillo's,american eagle outfitters,Portillo's Inc.,branded,2021-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+de'longhi,under armour,De'Longhi S.p.A.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+kenwood,webjet,De'Longhi S.p.A.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+braun,american eagle outfitters,De'Longhi S.p.A.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773
+ariete,boot barn,De'Longhi S.p.A.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773

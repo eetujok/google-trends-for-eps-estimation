@@ -1,0 +1,405 @@
+keyword,parent,company,funnel,until_date,status,date_range_start,date_range_end,data_points,error
+highlight event and entertainment,card factory,Highlight Communications AGD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+highlight event entertainment,sandro,Highlight Communications AGD,branded,2010-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421536870472900609) | keyword='highlight event entertainment', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+basic fit,webjet,Basic-Fit NVD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+delta downs racetrack casino and hotel,answear,Boyd Gaming Corporation,branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+delta downs racetrack casino hotel,sandro,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+eastside cannery casino and hotel,boot barn,Boyd Gaming Corporation,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421537443104466945) | keyword='eastside cannery casino and hotel', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+eastside cannery casino hotel,trustpilot,Boyd Gaming Corporation,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421537614651482113) | keyword='eastside cannery casino hotel', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+evangeline downs racetrack and casino,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+evangeline downs racetrack casino,trustpilot,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+par a dice hotel casino,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sams town las vegas,american eagle outfitters,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sams town shreveport,card factory,Boyd Gaming Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sams town tunica,under armour,Boyd Gaming Corporation,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421538480083213313) | keyword='sams town tunica', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+blackdecker,webjet,"Spectrum Brands Holdings, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421538631854084097) | keyword='blackdecker', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dominos pizza,card factory,Domino's Pizza Enterprises LimitedD,branded,2014-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ballys las vegas,webjet,"Caesars Entertainment, Inc.",branded,2012-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421538913736479745) | keyword='ballys las vegas', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+harrahs,under armour,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+planet hollywood resort and casino,sandro,"Caesars Entertainment, Inc.",branded,2012-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421539244105008130) | keyword='planet hollywood resort and casino', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+planet hollywood resort casino,card factory,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+rio allsuite hotel and casino,answear,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+rio allsuite hotel casino,trustpilot,"Caesars Entertainment, Inc.",branded,2012-03-31,NOT_NORMALIZED,,,0,No data for rio allsuite hotel casino in window 1
+the linq hotel experience,answear,"Caesars Entertainment, Inc.",branded,2012-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+chefs plate,mister car wash,HelloFresh SED,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+effect system,webjet,Lubawa SAD,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421540005065000961) | keyword='effect system', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+aces ales,mister car wash,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+aces and ales,under armour,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+arizona charlies boulder,mister car wash,"Golden Entertainment, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421540357030027265) | keyword='arizona charlies boulder', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+arizona charlies decatur,under armour,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+pts pub,under armour,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sean patricks,sandro,"Golden Entertainment, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+the strat hotel casino and skypod,mister car wash,"Golden Entertainment, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421540836476750849) | keyword='the strat hotel casino and skypod', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+the strat hotel casino skypod,boot barn,"Golden Entertainment, Inc.",branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+gi joe,american eagle outfitters,"Hasbro, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+carters,webjet,"Carter's, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+oshkosh bgosh,trustpilot,"Carter's, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+rh baby and child,trustpilot,Restoration Hardware,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+rh baby child,boot barn,Restoration Hardware,branded,2015-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+brumbys bakery,answear,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gloria jeans coffees,american eagle outfitters,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+michels patisserie,sandro,Retail Food Group LimitedD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+mini bot,answear,Richtech Robotics Inc.,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+plantation boat mart and marina,american eagle outfitters,OneWater Marine Inc.,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+plantation boat mart marina,webjet,OneWater Marine Inc.,branded,2019-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421543275867153409) | keyword='plantation boat mart marina', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+platos closet,trustpilot,Winmark Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+burts bees,webjet,Clorox Company (The),branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421543628612320257) | keyword='burts bees', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+sos,webjet,Clorox Company (The),branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+studioc,sandro,Viva Leisure Ltd.D,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421544107622839297) | keyword='studioc', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dominos pizza,under armour,DP Poland PLC,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dr miele,boot barn,Dr. Miele Cosmed Group S.A.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sat1,webjet,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sat1 gold,sandro,ProSiebenSat.1 Media SED,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+petal and pup,sandro,a.k.a. Brands Holding Corp.,branded,2021-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421545088343365633) | keyword='petal and pup', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+petal pup,trustpilot,a.k.a. Brands Holding Corp.,branded,2021-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gazetapl,answear,Agora SAD,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+publiopl,card factory,Agora SAD,branded,2014-09-30,NOT_NORMALIZED,,,0,No data for publiopl in window 1
+sportpl,card factory,Agora SAD,branded,2014-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421545749134984193) | keyword='sportpl', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dave & busters,boot barn,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dave and buster's,answear,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421546063481310209) | keyword='dave and buster's', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dave and busters,mister car wash,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421546484622952449) | keyword='dave and busters', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+dave buster's,under armour,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dave busters,webjet,"Dave & Buster's Entertainment, Inc.",branded,2014-10-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421547028364164097) | keyword='dave busters', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+kandh pet products,webjet,Central Garden & Pet Company,branded,2010-03-31,NOT_NORMALIZED,,,0,No data for kandh pet products in window 1
+kh pet products,sandro,Central Garden & Pet Company,branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+overn out,american eagle outfitters,Central Garden & Pet Company,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421547378072653825) | keyword='overn out', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+leons,under armour,Leon's Furniture LimitedD,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+hostels,sandro,Hostelworld Group Plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+hostelscom,answear,Hostelworld Group Plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sportsmans warehouse,card factory,"Sportsman's Warehouse Holdings, Inc.",branded,2014-04-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+portillos,webjet,Portillo's Inc.,branded,2021-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+delonghi,boot barn,De'Longhi S.p.A.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+monday and wednesday lotto,mister car wash,Lottery Corporation LimitedD,branded,2022-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421548534601621505) | keyword='monday and wednesday lotto', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+monday wednesday lotto,sandro,Lottery Corporation LimitedD,branded,2022-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+lester and son funeral directors,boot barn,Propel Funeral Partners Ltd.D,branded,2023-06-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+lester son funeral directors,webjet,Propel Funeral Partners Ltd.D,branded,2023-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+light and wonder,boot barn,"Light & Wonder, Inc. Shs Chess Depository Interests Repr 1 ShDDR",branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+light wonder,webjet,"Light & Wonder, Inc. Shs Chess Depository Interests Repr 1 ShDDR",branded,2019-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421549422007290881) | keyword='light wonder', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+kogan,card factory,Kogan.com Ltd.D,branded,2016-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+kogancom,american eagle outfitters,Kogan.com Ltd.D,branded,2016-06-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+pelicans nest early learning centre,answear,G8 Education LimitedD,branded,2014-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bath and body works,boot barn,LimitedD,branded,2019-12-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+bath body works,sandro,LimitedD,branded,2019-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+wetnwild gold coast,webjet,Coast Entertainment Holdings LtdD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+lavrio bc,answear,GR. ANTIS S.A.D,branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+pamestoiximagr,card factory,Greek Organisation of Football Prognostics SAD,branded,2010-06-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+rigby and peller,answear,Van de Velde NVD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+rigby peller,american eagle outfitters,Van de Velde NVD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+all clad,trustpilot,Groupe SEB,branded,2017-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+abercrombie and fitch,under armour,Interparfums,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421551354386059265) | keyword='abercrombie and fitch', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+abercrombie fitch,under armour,Interparfums,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+van cleef and arpels,card factory,Interparfums,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421551889394727937) | keyword='van cleef and arpels', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+van cleef arpels,boot barn,Interparfums,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+chaplins world,webjet,Compagnie des Alpes SAD,branded,2018-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421552323245120513) | keyword='chaplins world', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+mont saint sauveur,mister car wash,Compagnie des Alpes SAD,branded,2018-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421552479596199938) | keyword='mont saint sauveur', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+saas fee,boot barn,Compagnie des Alpes SAD,branded,2018-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421552611708404737) | keyword='saas fee', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+val disère,card factory,Compagnie des Alpes SAD,branded,2018-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421552709523769345) | keyword='val disère', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+walibi rhône alpes,mister car wash,Compagnie des Alpes SAD,branded,2018-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421552938440504321) | keyword='walibi rhône alpes', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bunimmurray productions,card factory,Banijay Group N.V. Class AD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+mr bean,boot barn,Banijay Group N.V. Class AD,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421553192376244225) | keyword='mr bean', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+mallcz,answear,Allegro.eu S.A.D,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+pricemaniask,sandro,Allegro.eu S.A.D,branded,2020-09-30,NOT_NORMALIZED,,,0,No data for pricemaniask in window 1
+webshopshr,card factory,Allegro.eu S.A.D,branded,2020-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421553648901074945) | keyword='webshopshr', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+webshopshu,mister car wash,Allegro.eu S.A.D,branded,2020-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421553747249115137) | keyword='webshopshu', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+webshopssk,sandro,Allegro.eu S.A.D,branded,2020-09-30,NOT_NORMALIZED,,,0,No data for webshopssk in window 1
+caviar house and prunier,webjet,SSP Group Plc,branded,2015-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421554079077251073) | keyword='caviar house and prunier', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+caviar house prunier,under armour,SSP Group Plc,branded,2015-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421554246681632769) | keyword='caviar house prunier', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+mands simply food,sandro,SSP Group Plc,branded,2015-03-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+millies cookies,boot barn,SSP Group Plc,branded,2015-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ms simply food,under armour,SSP Group Plc,branded,2015-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421554974519236611) | keyword='ms simply food', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+mane n tail,trustpilot,PZ Cussons Plc,branded,2016-05-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421555123576384513) | keyword='mane n tail', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+sunshine,under armour,On The Beach Group PLC,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421555331097993218) | keyword='sunshine', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+sunshinecouk,boot barn,On The Beach Group PLC,branded,2010-01-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+made,answear,Next plc,branded,2016-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421555646220241921) | keyword='made', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+madecom,sandro,Next plc,branded,2016-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421555931919438849) | keyword='madecom', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+victorias secret uk,under armour,Next plc,branded,2016-07-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bankss,answear,Marston's PLC,branded,2013-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421556462914153473) | keyword='bankss', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+marstons,sandro,Marston's PLC,branded,2013-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+youngs ales,sandro,Marston's PLC,branded,2013-09-30,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+miller and carter,answear,Mitchells & Butlers plc,branded,2013-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+miller carter,mister car wash,Mitchells & Butlers plc,branded,2013-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+nicholsons pubs,under armour,Mitchells & Butlers plc,branded,2013-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421557396889149441) | keyword='nicholsons pubs', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+oneills,mister car wash,Mitchells & Butlers plc,branded,2013-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421557579098129410) | keyword='oneills', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+stonehouse pizza and carvery,trustpilot,Mitchells & Butlers plc,branded,2013-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421557742013273089) | keyword='stonehouse pizza and carvery', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+stonehouse pizza carvery,answear,Mitchells & Butlers plc,branded,2013-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421557992350292993) | keyword='stonehouse pizza carvery', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+fullers,mister car wash,"Fuller, Smith & Turner P.L.C. Class A",branded,2025-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+innkeepers collection,trustpilot,"Fuller, Smith & Turner P.L.C. Class A",branded,2025-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421558652760241153) | keyword='innkeepers collection', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dominos pizza,trustpilot,Domino's Pizza Group plc,branded,2013-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dr martens,boot barn,Dr. Martens Plc,branded,2022-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421558979282619394) | keyword='dr martens', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+cook and serve,webjet,Churchill China plc,branded,2010-01-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+cook serve,answear,Churchill China plc,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421559398046109697) | keyword='cook serve', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+gp and j baker,webjet,Colefax Group Plc,branded,2022-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421559713986271233) | keyword='gp and j baker', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+gp j baker,webjet,Colefax Group Plc,branded,2022-07-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ben & hollys little kingdom,sandro,Character Group plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ben and holly's little kingdom,trustpilot,Character Group plc,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421560304703638529) | keyword='ben and holly's little kingdom', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ben and hollys little kingdom,webjet,Character Group plc,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421560491496974337) | keyword='ben and hollys little kingdom', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ben holly's little kingdom,answear,Character Group plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ben hollys little kingdom,boot barn,Character Group plc,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421560859538767873) | keyword='ben hollys little kingdom', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+softn slo squishies,sandro,Character Group plc,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for softn slo squishies in window 1
+thomas and friends,mister car wash,Character Group plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+thomas friends,answear,Character Group plc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ss lazio,boot barn,Societa Sportiva Lazio S.p.A.,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421561303740737537) | keyword='ss lazio', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bandc speakers,answear,B&C Speakers S.p.A.,branded,2010-01-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+bc speakers,sandro,B&C Speakers S.p.A.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+wendys,sandro,Wendy's Company (The),branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421561673577673729) | keyword='wendys', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bubbas 33,trustpilot,"Texas Roadhouse, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+adultsearch,answear,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421562065703159809) | keyword='adultsearch', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+adultsearchcom,mister car wash,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,NOT_NORMALIZED,,,0,No data for adultsearchcom in window 1
+bombshells restaurant and bar,american eagle outfitters,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+bombshells restaurant bar,sandro,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+fansonly,card factory,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+fansonlycom,sandro,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+foxys cabaret,answear,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+pts showclub,mister car wash,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ricks cabaret,boot barn,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+tootsies cabaret,american eagle outfitters,"RCI Hospitality Holdings, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+jean louis david,boot barn,Regis Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+rm williams,american eagle outfitters,"Rocky Brands, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421564036107476993) | keyword='rm williams', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+papa johns,mister car wash,"Papa John's International, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421564165149447169) | keyword='papa johns', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+the childrens place,boot barn,"Children's Place, Inc. (The)",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421564319369800705) | keyword='the childrens place', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+odysightai,answear,Odysight.ai Inc.,branded,2025-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421564503034173441) | keyword='odysightai', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dar corp,mister car wash,DAR Corp.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+arthur treachers,trustpilot,"Nathan's Famous, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421565066815742977) | keyword='arthur treachers', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+nathans famous,sandro,"Nathan's Famous, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+thomas and friends,boot barn,"Mattel, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+thomas friends,trustpilot,"Mattel, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421565735660433410) | keyword='thomas friends', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+liquidation,boot barn,"Liquidity Services, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+liquidationcom,trustpilot,"Liquidity Services, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+lands end,webjet,"Lands' End, Inc.",branded,2014-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421566549728713730) | keyword='lands end', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+fred and friends,under armour,"Lifetime Brands, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+fred friends,under armour,"Lifetime Brands, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421567055079409665) | keyword='fred friends', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+swell,boot barn,"Lifetime Brands, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+swing a way,trustpilot,"Lifetime Brands, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421567566901970945) | keyword='swing a way', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+van cleef and arpels,boot barn,"Interparfums, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+van cleef arpels,trustpilot,"Interparfums, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421568074899299329) | keyword='van cleef arpels', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+coupon,answear,"Groupon, Inc.",branded,2011-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421568239131462657) | keyword='coupon', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+couponcom,sandro,"Groupon, Inc.",branded,2011-12-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+global e,mister car wash,Global-E Online Ltd.,branded,2021-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421568673405481985) | keyword='global e', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+g.h. bass and co.,boot barn,"G-III Apparel Group, LTD.",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421568893698748417) | keyword='g.h. bass and co.', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+g.h. bass co.,trustpilot,"G-III Apparel Group, LTD.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gh bass & co,sandro,"G-III Apparel Group, LTD.",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421569247093992449) | keyword='gh bass & co', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+gh bass and co,boot barn,"G-III Apparel Group, LTD.",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421569435913171970) | keyword='gh bass and co', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+gh bass co,boot barn,"G-III Apparel Group, LTD.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+levis,card factory,"G-III Apparel Group, LTD.",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421569896976243713) | keyword='levis', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+1 800 flowers,sandro,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421570042745067521) | keyword='1 800 flowers', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+1 800 flowers.com,webjet,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+1 800 flowerscom,mister car wash,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+1-800-flowers,sandro,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+1-800-flowerscom,trustpilot,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421570784264471553) | keyword='1-800-flowerscom', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+alices table,under armour,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421570931014773761) | keyword='alices table', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+cheryls cookies,webjet,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+harry and david,mister car wash,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421571243939244033) | keyword='harry and david', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+harry david,trustpilot,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+personalizationmall,sandro,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421571662627219458) | keyword='personalizationmall', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+personalizationmallcom,under armour,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+sharis berries,card factory,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+wolfermans bakery,answear,"1-800-FLOWERS.COM, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421572189654110209) | keyword='wolfermans bakery', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bronco billys casino and hotel,boot barn,"Full House Resorts, Inc.",branded,2010-03-31,NOT_NORMALIZED,,,0,No data for bronco billys casino and hotel in window 1
+stockmans casino,american eagle outfitters,"Full House Resorts, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421572371603011585) | keyword='stockmans casino', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ftai infrastructure inc,under armour,FTAI Infrastructure Inc.,branded,2022-06-30,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+cue and case,boot barn,"Escalade, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421572783089401858) | keyword='cue and case', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+cue case,mister car wash,"Escalade, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421572982276896769) | keyword='cue case', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+abra auto body and glass,sandro,Driven Brands Holdings Inc.,branded,2020-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421573154008511489) | keyword='abra auto body and glass', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+abra auto body glass,boot barn,Driven Brands Holdings Inc.,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+econo lube n tune,answear,Driven Brands Holdings Inc.,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+kwik fit,mister car wash,Driven Brands Holdings Inc.,branded,2020-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dominos pizza,card factory,Domino's Pizza Inc,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421573821490010113) | keyword='dominos pizza', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dennys,mister car wash,Denny's Corporation,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+kekes breakfast cafe,answear,Denny's Corporation,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421574341940217857) | keyword='kekes breakfast cafe', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+rhino rack,card factory,Clarus Corporation,branded,2010-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+fair grounds race course and slots,under armour,"Churchill Downs, Incorporated",branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+fair grounds race course slots,american eagle outfitters,"Churchill Downs, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421574784661605377) | keyword='fair grounds race course slots', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+oak grove racing gaming and hotel,trustpilot,"Churchill Downs, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421574942350670849) | keyword='oak grove racing gaming and hotel', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+oak grove racing gaming hotel,webjet,"Churchill Downs, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421575058662899713) | keyword='oak grove racing gaming hotel', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+presque isle downs and casino,card factory,"Churchill Downs, Incorporated",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+presque isle downs casino,answear,"Churchill Downs, Incorporated",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+carrabbas italian grill,boot barn,"Bloomin' Brands, Inc.",branded,2012-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421575602563481601) | keyword='carrabbas italian grill', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+fleming's prime steakhouse and wine bar,boot barn,"Bloomin' Brands, Inc.",branded,2012-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421575740467976193) | keyword='fleming's prime steakhouse and wine bar', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+fleming's prime steakhouse wine bar,trustpilot,"Bloomin' Brands, Inc.",branded,2012-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+flemings prime steakhouse & wine bar,trustpilot,"Bloomin' Brands, Inc.",branded,2012-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421576167024520193) | keyword='flemings prime steakhouse & wine bar', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+flemings prime steakhouse and wine bar,trustpilot,"Bloomin' Brands, Inc.",branded,2012-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421576367138961409) | keyword='flemings prime steakhouse and wine bar', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+flemings prime steakhouse wine bar,under armour,"Bloomin' Brands, Inc.",branded,2012-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421576485548347393) | keyword='flemings prime steakhouse wine bar', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bj's restaurant and brewhouse,trustpilot,"BJ's Restaurants, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421576567622486017) | keyword='bj's restaurant and brewhouse', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bj's restaurant brewhouse,card factory,"BJ's Restaurants, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421576703752829953) | keyword='bj's restaurant brewhouse', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bjs restaurant & brewhouse,card factory,"BJ's Restaurants, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421576846409487361) | keyword='bjs restaurant & brewhouse', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bjs restaurant and brewhouse,answear,"BJ's Restaurants, Inc.",branded,2010-03-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+bjs restaurant brewhouse,trustpilot,"BJ's Restaurants, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421577206398192641) | keyword='bjs restaurant brewhouse', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+mandp,sandro,"American Outdoor Brands, Inc.",branded,2020-07-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+mp,under armour,"American Outdoor Brands, Inc.",branded,2020-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421577549462937601) | keyword='mp', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+smith and wesson,card factory,"American Outdoor Brands, Inc.",branded,2020-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421577715955805185) | keyword='smith and wesson', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+smith wesson,card factory,"American Outdoor Brands, Inc.",branded,2020-07-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421577797065282561) | keyword='smith wesson', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+thompsoncenter arms,card factory,"American Outdoor Brands, Inc.",branded,2020-07-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+aureus mining inc,sandro,Aureus Greenway Holdings Inc.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+offers,webjet,"Ziff Davis, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421578198497930241) | keyword='offers', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+offerscom,card factory,"Ziff Davis, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421578396200639489) | keyword='offerscom', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+angies list,card factory,Angi Inc.,branded,2011-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421578606029060097) | keyword='angies list', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+17173,boot barn,Sohu.com Limited Sponsored ADRDR,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421578681543328769) | keyword='17173', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+17173com,sandro,Sohu.com Limited Sponsored ADRDR,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421578934300477441) | keyword='17173com', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+coffii and joy,sandro,"Yum China Holdings, Inc.",branded,2016-09-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+coffii joy,sandro,"Yum China Holdings, Inc.",branded,2016-09-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+abbys choice,under armour,Yatsen Holding Ltd. Sponsored ADR Class ADR,branded,2020-12-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+drwu,american eagle outfitters,Yatsen Holding Ltd. Sponsored ADR Class ADR,branded,2020-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421579371539859457) | keyword='drwu', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+harley davidson footwear,mister car wash,"Wolverine World Wide, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+aqua aston hospitality,sandro,Marriott Vacations Worldwide Corporation,branded,2011-12-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+the ritz carlton destination club,card factory,Marriott Vacations Worldwide Corporation,branded,2011-12-31,NOT_NORMALIZED,,,0,No data for the ritz carlton destination club in window 1
+k z rv,american eagle outfitters,"Thor Industries, Inc.",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421579937506674689) | keyword='k z rv', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+niesmannbischoff,trustpilot,"Thor Industries, Inc.",branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421580185994021890) | keyword='niesmannbischoff', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+marcus hotels and resorts,trustpilot,Marcus Corporation (The),branded,2010-06-30,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+marcus hotels resorts,trustpilot,Marcus Corporation (The),branded,2010-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421580471055709185) | keyword='marcus hotels resorts', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+la z boy,mister car wash,La-Z-Boy Incorporated,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+denizen from levis,webjet,Levi Strauss & Co,branded,2019-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+levis,trustpilot,Levi Strauss & Co,branded,2019-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+signature by levi strauss and co,american eagle outfitters,Levi Strauss & Co,branded,2019-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+signature by levi strauss co,mister car wash,Levi Strauss & Co,branded,2019-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+leggett and platt,webjet,"Leggett & Platt, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421581780349659137) | keyword='leggett and platt', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+leggett platt,sandro,"Leggett & Platt, Incorporated",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421581898889078785) | keyword='leggett platt', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+rock and republic,sandro,"Kontoor Brands, Inc.",branded,2019-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421582123418541057) | keyword='rock and republic', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+rock republic,webjet,"Kontoor Brands, Inc.",branded,2019-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+jjill,mister car wash,"J. Jill, Inc.",branded,2017-04-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+handr block,card factory,"H&R Block, Inc.",branded,2013-06-30,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+handr block emerald card,boot barn,"H&R Block, Inc.",branded,2013-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421583011075886083) | keyword='handr block emerald card', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+hr block,webjet,"H&R Block, Inc.",branded,2013-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+hr block emerald card,trustpilot,"H&R Block, Inc.",branded,2013-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+clydes restaurant group,boot barn,Graham Holdings Company,branded,2010-03-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+johnston and murphy,answear,Genesco Inc.,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+johnston murphy,american eagle outfitters,Genesco Inc.,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421584018136675329) | keyword='johnston murphy', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ob,webjet,Edgewell Personal Care Company,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+elf cosmetics,american eagle outfitters,"e.l.f. Beauty, Inc.",branded,2016-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421584260672292865) | keyword='elf cosmetics', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+chili's grill and bar,mister car wash,"Brinker International, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421584409574281217) | keyword='chili's grill and bar', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+chili's grill bar,american eagle outfitters,"Brinker International, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+chilis grill & bar,sandro,"Brinker International, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+chilis grill and bar,card factory,"Brinker International, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+chilis grill bar,american eagle outfitters,"Brinker International, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421585006503441409) | keyword='chilis grill bar', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+its just wings,american eagle outfitters,"Brinker International, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+maggianos italian classics,sandro,"Brinker International, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+maggianos little italy,sandro,"Brinker International, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+cheddars scratch kitchen,trustpilot,"Darden Restaurants, Inc.",branded,2010-02-28,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421585667261500419) | keyword='cheddars scratch kitchen', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+eddie vs prime seafood,boot barn,"Darden Restaurants, Inc.",branded,2010-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ruths chris steak house,card factory,"Darden Restaurants, Inc.",branded,2010-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+applebees,american eagle outfitters,"Dine Brands Global, Inc. Common Stock",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421586036779660289) | keyword='applebees', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+fazolis,boot barn,"Dine Brands Global, Inc. Common Stock",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421586241629496321) | keyword='fazolis', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+tiffany & co,webjet,Coty Inc.,branded,2013-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421586405165399041) | keyword='tiffany & co', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+tiffany and co,american eagle outfitters,Coty Inc.,branded,2013-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+tiffany and co.,under armour,Coty Inc.,branded,2013-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421586918678217729) | keyword='tiffany and co.', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+tiffany co,american eagle outfitters,Coty Inc.,branded,2013-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421587081505299457) | keyword='tiffany co', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+tiffany co.,answear,Coty Inc.,branded,2013-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421587378327801857) | keyword='tiffany co.', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+bad daddys burger bar,under armour,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+max & ermas,boot barn,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+max and erma's,american eagle outfitters,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+max and ermas,trustpilot,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+max erma's,under armour,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+max ermas,boot barn,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+ninety nine restaurant and pub,webjet,"Cannae Holdings, Inc.",branded,2015-12-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+ninety nine restaurant pub,webjet,"Cannae Holdings, Inc.",branded,2015-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421588866177461249) | keyword='ninety nine restaurant pub', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ocharleys,under armour,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+perkins restaurant and bakery,card factory,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+perkins restaurant bakery,boot barn,"Cannae Holdings, Inc.",branded,2015-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+arm and hammer,card factory,"Church & Dwight Company, Inc.",branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+arm hammer,webjet,"Church & Dwight Company, Inc.",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421589985804981249) | keyword='arm hammer', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dr scholls shoes,under armour,"Caleres, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bed bath and beyond,sandro,"Bed Bath & Beyond, Inc.",branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bed bath beyond,boot barn,"Bed Bath & Beyond, Inc.",branded,2020-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421590524437476354) | keyword='bed bath beyond', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ballys,card factory,Bally's Corporation,branded,2019-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421590848556537857) | keyword='ballys', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+arcteryx,boot barn,"Amer Sports, Inc.",branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+mcdonalds,american eagle outfitters,Arcos Dorados Holdings Inc.,branded,2011-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421591202165715969) | keyword='mcdonalds', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+jonathan and jesus,under armour,"Angel Studios, Inc.",branded,2025-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421591314686323713) | keyword='jonathan and jesus', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+jonathan jesus,webjet,"Angel Studios, Inc.",branded,2025-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421591481237909505) | keyword='jonathan jesus', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+abercrombie and fitch,answear,Abercrombie & Fitch Company,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+abercrombie fitch,card factory,Abercrombie & Fitch Company,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+hollister co,webjet,Abercrombie & Fitch Company,branded,2010-01-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+flanigans liquor store,webjet,"Flanigan's Enterprises, Inc.",branded,2010-01-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+flanigans seafood bar and grill,mister car wash,"Flanigan's Enterprises, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sport & entertainment asd,mister car wash,Sport & Entertainment A/SD,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421592746823029761) | keyword='sport & entertainment asd', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+sport and entertainment a/sd,american eagle outfitters,Sport & Entertainment A/SD,branded,2010-01-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+sport and entertainment asd,sandro,Sport & Entertainment A/SD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sport entertainment a/sd,under armour,Sport & Entertainment A/SD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+sport entertainment asd,card factory,Sport & Entertainment A/SD,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for sport entertainment asd in window 1
+bang and olufsen,trustpilot,Bang & Olufsen A/SD,branded,2010-02-28,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bang olufsen,trustpilot,Bang & Olufsen A/SD,branded,2010-02-28,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421593633377245185) | keyword='bang olufsen', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+verkkokauppa,webjet,Verkkokauppa.com OyjD,branded,2014-09-30,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+verkkokauppacom,mister car wash,Verkkokauppa.com OyjD,branded,2014-09-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+friends and brgrs,answear,NoHo Partners PlcD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+friends brgrs,boot barn,NoHo Partners PlcD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+stefans steakhouse,mister car wash,NoHo Partners PlcD,branded,2013-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+k märkt,answear,Nordrest Holding ABD,branded,2024-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421594760210584578) | keyword='k märkt', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+ahead,answear,New Wave Group AB Class BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+cutter and buck,mister car wash,New Wave Group AB Class BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+cutter buck,boot barn,New Wave Group AB Class BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+kjell and company,under armour,Kjell Group ABD,branded,2021-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+kjell company,card factory,Kjell Group ABD,branded,2021-12-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+paperdesign,american eagle outfitters,Duni ABD,branded,2010-06-30,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+edge entertainment,webjet,Asmodee Group AB Class BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+z man games,under armour,Asmodee Group AB Class BD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+eductus,american eagle outfitters,AcadeMedia ABD,branded,2016-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+lauma lingerie,boot barn,Silvano Fashion Group ASD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+pull and bear,boot barn,Apranga APBD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+pull bear,american eagle outfitters,Apranga APBD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+look voyages,card factory,Transat A.T. Inc.D,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+impression paragraph inc,webjet,Supremex Inc.D,branded,2016-06-30,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+savaria,card factory,Savaria CorporationD,branded,2014-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bonterra,trustpilot,"KP Tissue, Inc.D",branded,2012-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421597691236344834) | keyword='bonterra', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+prim proper,boot barn,Gildan Activewear Inc.D,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421597906769051649) | keyword='prim proper', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+gamehost inc,trustpilot,Gamehost Inc.D,branded,2010-03-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+gamehost inc.,boot barn,Gamehost Inc.D,branded,2010-03-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+d box,mister car wash,D-BOX Technologies Inc. Class AD,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421598581422852098) | keyword='d box', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+cineplex store,under armour,Cineplex Inc.D,branded,2010-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+scene,mister car wash,Cineplex Inc.D,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421598985091027969) | keyword='scene', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+boyd autobody and glass,american eagle outfitters,Boyd Group Services IncD,branded,2010-09-30,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+boyd autobody glass,trustpilot,Boyd Group Services IncD,branded,2010-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421599431906077697) | keyword='boyd autobody glass', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+gerber collision & glass,mister car wash,Boyd Group Services IncD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gerber collision and glass,webjet,Boyd Group Services IncD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gerber collision glass,mister car wash,Boyd Group Services IncD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+omnia media,sandro,Blue Ant Media CorporationD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+t+e,under armour,Blue Ant Media CorporationD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+te,american eagle outfitters,Blue Ant Media CorporationD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+aandw,under armour,"A&W Food Services of Canada, Inc.D",branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+aw,answear,"A&W Food Services of Canada, Inc.D",branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+hyba,card factory,Reitmans (Canada) LimitedD,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421601676617850881) | keyword='hyba', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+do & co hotel,under armour,DO & CO AktiengesellschaftD,branded,2011-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+do and co,american eagle outfitters,DO & CO AktiengesellschaftD,branded,2011-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+do and co hotel,answear,DO & CO AktiengesellschaftD,branded,2011-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+do co,answear,DO & CO AktiengesellschaftD,branded,2011-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+do co hotel,mister car wash,DO & CO AktiengesellschaftD,branded,2011-06-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421603040253211649) | keyword='do co hotel', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+zalando,webjet,Zalando SED,branded,2014-12-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421603222600559617) | keyword='zalando', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+global fashion group,american eagle outfitters,Global Fashion Group S.A.D,branded,2019-06-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dicks sporting goods,american eagle outfitters,Dick's Sporting Goods Inc,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421603669717571585) | keyword='dicks sporting goods', date_from='2011-04-05', date_to='2016-04-04' | No Content"
+field and stream,under armour,Dick's Sporting Goods Inc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+field stream,answear,Dick's Sporting Goods Inc,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+joss and main,answear,ayfair Inc.,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+joss main,webjet,ayfair Inc.,branded,2014-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bath and body works,mister car wash,"Bath & Body Works, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+bath body works,american eagle outfitters,"Bath & Body Works, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+mappin and webb,answear,Watches of Switzerland Group PLC,branded,2024-04-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+mappin webb,american eagle outfitters,Watches of Switzerland Group PLC,branded,2024-04-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gander rv & outdoors,under armour,"Camping World Holdings, Inc.",branded,2016-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gander rv and outdoors,mister car wash,"Camping World Holdings, Inc.",branded,2016-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+gander rv outdoors,boot barn,"Camping World Holdings, Inc.",branded,2016-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421605588926223361) | keyword='gander rv outdoors', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+overtons,webjet,"Camping World Holdings, Inc.",branded,2016-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421605955395155969) | keyword='overtons', date_from='2016-02-28', date_to='2021-02-27' | No Content"
+dm fotoservice,sandro,CEWE Stiftung & Co. KGaAD,branded,2010-09-30,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421606131367188481) | keyword='dm fotoservice', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+rossmann fotoservice,mister car wash,CEWE Stiftung & Co. KGaAD,branded,2010-09-30,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+build a bear workshop,mister car wash,"Build-A-Bear Workshop, Inc.",branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+northrop and johnson,webjet,"MarineMax, Inc. (FL)",branded,2010-03-31,failed,,,0,"HTTPSConnectionPool(host='realtime.oxylabs.io', port=443): Read timed out. (read timeout=60)"
+northrop johnson,sandro,"MarineMax, Inc. (FL)",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421606903261711361) | keyword='northrop johnson', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+skipperbuds,card factory,"MarineMax, Inc. (FL)",branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421607052826417153) | keyword='skipperbuds', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+charleston gold and silver exchange,mister car wash,Envela Corporation,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+charleston gold silver exchange,webjet,Envela Corporation,branded,2020-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+dallas gold and silver exchange,webjet,Envela Corporation,branded,2020-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421607471455685633) | keyword='dallas gold and silver exchange', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+dallas gold silver exchange,card factory,Envela Corporation,branded,2020-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421607660694305793) | keyword='dallas gold silver exchange', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+northern gold and silver exchange,card factory,Envela Corporation,branded,2020-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421607836532084737) | keyword='northern gold and silver exchange', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+northern gold silver exchange,mister car wash,Envela Corporation,branded,2020-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421607938692781057) | keyword='northern gold silver exchange', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+jacques weindepot,answear,Hawesko Holding SED,branded,2010-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421608088383262721) | keyword='jacques weindepot', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+bokus play,under armour,Bokusgruppen ABD,branded,2025-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+abd insurance and financial services,answear,Pierce Group ABD,branded,2021-03-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421608422648323073) | keyword='abd insurance and financial services', date_from='2021-01-26', date_to='2026-01-25' | No Content"
+abd insurance financial services,webjet,Pierce Group ABD,branded,2021-03-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+direct matelas,trustpilot,CAFOM SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+direct matelas.com,sandro,CAFOM SAD,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for direct matelas.com in window 1
+direct matelascom,american eagle outfitters,CAFOM SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+direct-matelas,answear,CAFOM SAD,branded,2010-01-31,success,2021-01-30 02:00:00+02:00,2026-01-24 02:00:00+02:00,261,
+direct-matelascom,answear,CAFOM SAD,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for direct-matelascom in window 1
+vente unique,trustpilot,CAFOM SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+vente unique.com,sandro,CAFOM SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+vente uniquecom,sandro,CAFOM SAD,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for vente uniquecom in window 1
+vente-unique,american eagle outfitters,CAFOM SAD,branded,2010-01-31,success,2011-04-09 03:00:00+03:00,2026-01-24 02:00:00+02:00,773,
+vente-uniquecom,answear,CAFOM SAD,branded,2010-01-31,NOT_NORMALIZED,,,0,No data for vente-uniquecom in window 1
+dr c tuna,american eagle outfitters,Able View Global Inc.,branded,2010-01-31,success,2016-03-05 02:00:00+02:00,2026-01-24 02:00:00+02:00,517,
+dr. c. tuna,under armour,Able View Global Inc.,branded,2010-01-31,failed,,,0,"Oxylabs API error: 204 (x-oxylabs-job-id=7421609698270420995) | keyword='dr. c. tuna', date_from='2021-01-26', date_to='2026-01-25' | No Content"
