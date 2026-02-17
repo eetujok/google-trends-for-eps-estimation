@@ -5,6 +5,7 @@
 0. Introduction
 
 This project explores whether search interest in a company’s brands can impact company financial performance. Using Google Trends data, the analysis measures "relative popularity" spikes, assings them to fisical quarters and analyzes what impact the spikes have on earnings.
+
 0.1 Starting Hypothesis
 
 "Positive spikes in a company's branded keyword traffic is indicative of a positive earnings surprise."
