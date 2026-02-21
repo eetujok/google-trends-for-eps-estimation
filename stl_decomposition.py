@@ -264,6 +264,9 @@ def process_keyword_events(
     post=8,
     tail=4,
     shift_thr=0.5,
+    require_min_change=False,
+    min_change_fraction=0.10,
+    pre_weeks_for_avg=4,
     verbose=False
 ):
     """
@@ -283,6 +286,12 @@ def process_keyword_events(
         post: Weeks after end for baseline (default: 8)
         tail: Weeks after peak for retention (default: 4)
         shift_thr: r-units threshold for regime_shift_flag_e (default: 0.5)
+        require_min_change: If True, only create event if at least one value in the event
+            window differs from the pre-event average by min_change_fraction (default: False)
+        min_change_fraction: Minimum relative change vs 4-week pre-average required when
+            require_min_change is True (default: 0.10 = 10%)
+        pre_weeks_for_avg: Number of weeks before event start used to compute baseline
+            average (default: 4)
         verbose: Whether to print debug info (default: False)
     
     Returns:
@@ -340,7 +349,18 @@ def process_keyword_events(
             ev_cal = r_cal_t.loc[t_s:t_e]
             if ev.empty:
                 continue
-            
+
+            if require_min_change:
+                pre_slice = ts.loc[(ts.index >= t_s - pd.DateOffset(weeks=pre_weeks_for_avg)) & (ts.index < t_s)]
+                pre_avg = pre_slice.mean()
+                ev_slice = ts.loc[t_s:t_e]
+                if len(ev_slice) == 0:
+                    continue
+                denom = max(abs(pre_avg), 1e-9) if pd.notna(pre_avg) else 1e-9
+                rel_changes = (ev_slice - pre_avg).abs() / denom
+                if not (rel_changes >= min_change_fraction).any():
+                    continue
+
             features = compute_event_features(
                 t_s, t_e, ev, ev_cal, r_t,
                 pre=pre, post=post, tail=tail, shift_thr=shift_thr
@@ -360,8 +380,9 @@ def _process_single_keyword(args):
     Helper function for multiprocessing: process a single keyword.
     This function must be at module level for pickling.
     """
-    (kw, ts_dict, period, seasonal, trend, event_threshold_high, 
-     event_stop_pos, start_consec, end_consec, pre, post, tail, shift_thr) = args
+    (kw, ts_dict, period, seasonal, trend, event_threshold_high,
+     event_stop_pos, start_consec, end_consec, pre, post, tail, shift_thr,
+     require_min_change, min_change_fraction, pre_weeks_for_avg) = args
     
     try:
         # Convert dict back to DataFrame
@@ -382,6 +403,9 @@ def _process_single_keyword(args):
             post=post,
             tail=tail,
             shift_thr=shift_thr,
+            require_min_change=require_min_change,
+            min_change_fraction=min_change_fraction,
+            pre_weeks_for_avg=pre_weeks_for_avg,
             verbose=False
         )
         return (kw, events, None)
@@ -403,6 +427,9 @@ def build_event_table(
     post=8,
     tail=4,
     shift_thr=0.5,
+    require_min_change=False,
+    min_change_fraction=0.10,
+    pre_weeks_for_avg=4,
     output_dir=None,
     save=True,
     filename=None,
@@ -426,6 +453,11 @@ def build_event_table(
         post: Weeks after end for baseline (default: 8)
         tail: Weeks after peak for retention (default: 4)
         shift_thr: r-units threshold for regime_shift_flag_e (default: 0.5)
+        require_min_change: If True, only create event if at least one value in the event
+            window differs from the pre-event average by min_change_fraction (default: False)
+        min_change_fraction: Minimum relative change vs pre-event average when
+            require_min_change is True (default: 0.10 = 10%)
+        pre_weeks_for_avg: Number of weeks before event start for baseline average (default: 4)
         output_dir: Base output directory (default: ../output)
         save: Whether to save the event table (default: True)
         filename: Optional filename for saved table (default: None, uses timestamp)
@@ -477,7 +509,8 @@ def build_event_table(
         ts_dict = grp.to_dict("records") if len(grp) > 0 else []
         keyword_data.append((
             kw, ts_dict, period, seasonal, trend, event_threshold_high,
-            event_stop_pos, start_consec, end_consec, pre, post, tail, shift_thr
+            event_stop_pos, start_consec, end_consec, pre, post, tail, shift_thr,
+            require_min_change, min_change_fraction, pre_weeks_for_avg
         ))
     
     event_rows_all = []
@@ -492,8 +525,9 @@ def build_event_table(
         
         for args in keyword_data:
             # For sequential mode, convert dict back to DataFrame first
-            kw, ts_dict, period, seasonal, trend, event_threshold_high, \
-                event_stop_pos, start_consec, end_consec, pre, post, tail, shift_thr = args
+            (kw, ts_dict, period, seasonal, trend, event_threshold_high,
+             event_stop_pos, start_consec, end_consec, pre, post, tail, shift_thr,
+             require_min_change, min_change_fraction, pre_weeks_for_avg) = args
             ts = pd.DataFrame(ts_dict) if ts_dict else pd.DataFrame(columns=['date', 'value'])
             
             try:
@@ -511,6 +545,9 @@ def build_event_table(
                     post=post,
                     tail=tail,
                     shift_thr=shift_thr,
+                    require_min_change=require_min_change,
+                    min_change_fraction=min_change_fraction,
+                    pre_weeks_for_avg=pre_weeks_for_avg,
                     verbose=False
                 )
                 event_rows_all.extend(events)
@@ -773,13 +810,16 @@ def run_full_pipeline(
     post=8,
     tail=4,
     shift_thr=0.5,
+    require_min_change=False,
+    min_change_fraction=0.10,
+    pre_weeks_for_avg=4,
     save_events=True,
     save_quarter_events=True,
     events_filename=None,
     quarter_events_filename="quarter_events",
-        verbose=True,
-        test_keyword_limit=None,
-        n_jobs=None
+    verbose=True,
+    test_keyword_limit=None,
+    n_jobs=None
 ):
     """
     Run the full pipeline: load data, build event table, and merge with earnings.
@@ -799,6 +839,11 @@ def run_full_pipeline(
         post: Weeks after end for baseline (default: 8)
         tail: Weeks after peak for retention (default: 4)
         shift_thr: r-units threshold for regime_shift_flag_e (default: 0.5)
+        require_min_change: If True, only create event when at least one value in the event
+            window differs from the pre-event average by min_change_fraction (default: False)
+        min_change_fraction: Minimum relative change vs pre-event average when
+            require_min_change is True (default: 0.10 = 10%)
+        pre_weeks_for_avg: Number of weeks before event start for baseline average (default: 4)
         save_events: Whether to save the event table (default: True)
         save_quarter_events: Whether to save the quarter events table (default: True)
         events_filename: Optional filename for events table (default: None, uses timestamp)
@@ -821,6 +866,7 @@ def run_full_pipeline(
         print(f"  start_consec: {start_consec}")
         print(f"  end_consec: {end_consec}")
         print(f"  period: {period}, seasonal: {seasonal}, trend: {trend}")
+        print(f"  require_min_change: {require_min_change}, min_change_fraction: {min_change_fraction}, pre_weeks_for_avg: {pre_weeks_for_avg}")
         if test_keyword_limit:
             print(f"  ⚠️  TEST MODE: Limited to {test_keyword_limit} keywords")
         if n_jobs:
@@ -871,6 +917,9 @@ def run_full_pipeline(
             post=post,
             tail=tail,
             shift_thr=shift_thr,
+            require_min_change=require_min_change,
+            min_change_fraction=min_change_fraction,
+            pre_weeks_for_avg=pre_weeks_for_avg,
             output_dir=output_dir,
             save=save_events,
             filename=events_filename,
