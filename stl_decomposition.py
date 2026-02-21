@@ -618,7 +618,7 @@ def merge_earnings_reports(
         output_dir = Path(output_dir)
     
     if enrichment_dir is None:
-        enrichment_dir = Path("..") / "enrichment"
+        enrichment_dir = Path(".") / "data"
     else:
         enrichment_dir = Path(enrichment_dir)
     
@@ -681,10 +681,14 @@ def merge_earnings_reports(
         print(f"[MERGE_EARNINGS] {len(earnings)} earnings records match metadata companies")
         print(f"[MERGE_EARNINGS] Matching events to quarters...")
     
-    # 3. Assign event rows to quarters: t_start and t_end must both be inside the same quarter
+    # 3. Assign event rows to quarters: use the quarter that contains the event peak (t_peak).
+    #    This ensures events that span a quarter boundary (e.g. spike late Q4 into early Q1) are
+    #    still assigned to one quarter. Fall back to "whole event in quarter" if t_peak is missing.
     events = events_df.copy()
     events["t_start"] = pd.to_datetime(events["t_start"], utc=True)
     events["t_end"] = pd.to_datetime(events["t_end"], utc=True)
+    if "t_peak" in events.columns:
+        events["t_peak"] = pd.to_datetime(events["t_peak"], utc=True)
     
     quarter_event_rows = []
     processed = 0
@@ -696,11 +700,17 @@ def merge_earnings_reports(
         if not companies:
             continue
         t_s, t_e = ev["t_start"], ev["t_end"]
+        t_peak = ev.get("t_peak") if "t_peak" in ev.index else None
         for _c in companies:
             eq = earnings.loc[earnings["company_norm"] == _c]
             for _, q in eq.iterrows():
                 q_start, q_end = q["quarter_start"], q["quarter_end"]
-                if t_s >= q_start and t_e <= q_end:
+                # Prefer: quarter contains the event peak; else require whole event inside quarter
+                if t_peak is not None and pd.notna(t_peak):
+                    in_quarter = q_start <= t_peak <= q_end
+                else:
+                    in_quarter = t_s >= q_start and t_e <= q_end
+                if in_quarter:
                     row = ev.to_dict()
                     row["company"] = q["companyName"]
                     row["company_norm"] = _c
@@ -751,11 +761,11 @@ def merge_earnings_reports(
 def run_full_pipeline(
     output_dir=None,
     enrichment_dir=None,
-    min_nonzero_frac=1.0,
+    min_nonzero_frac=0.9,
     period=53,
     seasonal=53,
     trend=103,
-    event_threshold_high=3.0,
+    event_threshold_high=4.0,
     event_stop_pos=1.5,
     start_consec=1,
     end_consec=2,
