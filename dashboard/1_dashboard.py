@@ -9,7 +9,6 @@ import numpy as np
 from pathlib import Path
 import matplotlib.pyplot as plt
 
-# Paths: run from repo root (streamlit run dashboard/1_dashboard.py)
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 EVENT_TABLE_DIR = DATA_DIR / "event-table"
@@ -21,7 +20,7 @@ FEATURE_OPTIONS = [
     ("peak_z_e", "Peak (z)"),
 ]
 
-# Min-max for feature sliders: (min, max)
+# Slider ranges for the combination plot
 FEATURE_SLIDER_RANGES = {
     "baseline_shift_z_e": (0.0, 1.2),
     "peak_z_e": (0.0, 20.0),
@@ -119,12 +118,14 @@ def get_companies_and_keywords(df_all, meta, quarter_events):
     return companies, company_to_keywords
 
 
-# ---- Page config and title ----
+# Page config and title 
 st.set_page_config(page_title="Sudden Traffic Impact", layout="wide")
 st.markdown("<h1 style='text-align: center;'>Sudden Traffic Impact on Company Performance</h1>", unsafe_allow_html=True)
-st.markdown("---")
 
-# ---- Data loading ----
+st.markdown("<p style='text-align: center;'> Keyword timeseries data sourced from Google Trends. Events generated using STL decomposition residual. Quarter earnings data sourced from EODHD.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'> Detailed methodology and event creation logic can be found in the <a href='https://github.com/eetujok/google-trends-for-eps-estimation/blob/main/project.ipynb'>project notebook</a>.</p>", unsafe_allow_html=True)
+
+# Data loading
 df_all = load_timeseries()
 meta = load_metadata()
 earnings, y_all = load_earnings()
@@ -146,7 +147,12 @@ if not companies:
     st.warning("No companies with quarter events found. Run the pipeline to generate data/event-table/quarter_events.csv.")
     st.stop()
 
-# ---- Input row (always use all quarters with event for distribution) ----
+DEFAULT_COMPANY = "American Eagle Outfitters, Inc."
+DEFAULT_KEYWORD = "american eagle"
+idx_company = companies.index(DEFAULT_COMPANY) if DEFAULT_COMPANY in companies else 0
+default_kws = company_to_keywords.get(companies[idx_company], [])
+idx_keyword = default_kws.index(DEFAULT_KEYWORD) if DEFAULT_KEYWORD in default_kws else 0
+
 st.subheader("Input")
 c1, c2, c3, c4 = st.columns(4)
 
@@ -155,16 +161,18 @@ with c1:
         "Company",
         options=companies,
         key="company",
-        index=0,
+        index=idx_company,
     )
 
 with c2:
     keywords_for_company = company_to_keywords.get(company, [])
+    # When company is the default company, keep default keyword index; else 0
+    kw_index = keywords_for_company.index(DEFAULT_KEYWORD) if (company == DEFAULT_COMPANY and DEFAULT_KEYWORD in keywords_for_company) else 0
     keyword = st.selectbox(
         "Keyword",
         options=keywords_for_company or [""],
         key="keyword",
-        index=0,
+        index=kw_index,
     )
     if keyword == "" and keywords_for_company:
         keyword = keywords_for_company[0]
@@ -193,7 +201,7 @@ with c4:
 
 st.markdown("---")
 
-# ---- Two columns: left (timeseries + table), right (distribution + summary) ----
+# Two columns: left (timeseries + table), right (distribution + summary)
 col_left, col_right = st.columns([1, 1])
 
 with col_left:
@@ -206,14 +214,8 @@ with col_left:
             if quarter_events is not None and not quarter_events.empty and "keyword" in quarter_events.columns:
                 qe_kw = quarter_events[quarter_events["keyword"] == keyword]
                 n_spikes = qe_kw.drop_duplicates(subset=["company", "quarter_end"]).shape[0]
-                if "surprisePercent" in qe_kw.columns:
-                    highest_pct = qe_kw["surprisePercent"].max()
-                    highest_pct = highest_pct if pd.notna(highest_pct) else 0
-                else:
-                    highest_pct = 0
             else:
                 n_spikes = 0
-                highest_pct = 0
             fig, ax = plt.subplots(figsize=(8, 3))
             # Event spans in green, from quarter_events for this keyword
             if quarter_events is not None and not quarter_events.empty and "t_start" in quarter_events.columns and "t_end" in quarter_events.columns:
@@ -228,7 +230,6 @@ with col_left:
             ax.set_title(f"Keyword: {keyword}")
             # Text box top right: Highest %, N. Spikes
             textstr = "\n".join([
-                f"Highest %: {highest_pct:.1f}",
                 f"N. Spike Events: {n_spikes:,}",
             ])
             props = dict(boxstyle="round", facecolor="wheat", alpha=0.8)
@@ -237,12 +238,17 @@ with col_left:
             plt.tight_layout()
             st.pyplot(fig)
             plt.close()
+            st.markdown("""
+            <p style='text-align: center;'>
+            Spike events are marked in green.
+            </p>
+            """, unsafe_allow_html=True)
+
         else:
             st.info("No timeseries data for this keyword.")
     else:
         st.info("Select a company and keyword to see the timeseries.")
-
-    st.subheader("Features of Events")
+    st.subheader("Features of spike events")
     if quarter_events is not None and not quarter_events.empty and keyword:
         cols_show = ["t_start", "t_end", "baseline_shift_z_e", "area_z_e", "peak_z_e"]
         if "company" in quarter_events.columns:
@@ -271,7 +277,7 @@ with col_left:
 
 
 with col_right:
-    st.subheader("EPS Surprise distribution vs. conditional distribution")
+    st.subheader("EPS Surprise distribution: All quarters vs. quarters with spike events")
     if quarter_events is None or quarter_events.empty or feature_col not in quarter_events.columns:
         st.info("Load quarter_events and feature data to show distributions.")
     else:
@@ -316,7 +322,7 @@ with col_right:
             ax.axvline(0, color="black", linestyle="--", alpha=0.7)
             ax.set_xlabel("EPS surprise (%) — signed log scale")
             ax.set_ylabel("Density")
-            ax.set_title("EPS surprise: All quarters vs. quarters w/ keyword traffic spikes")
+            ax.set_title("EPS surprise: All quarters vs. quarters with spike events")
             tick_vals = np.array([-100, -10, -1, 0, 1, 10, 100, 1000, 1e4])
             ax.set_xticks(signed_log1p(tick_vals))
             ax.set_xticklabels([f"{t:.0f}" if abs(t) >= 1 else f"{t:.1f}" for t in tick_vals])
@@ -331,8 +337,8 @@ with col_right:
             st.pyplot(fig)
             plt.close()
 
-        # Summary text
-        st.subheader("Summary")
+        # Explanation text
+        st.subheader("Explanation")
         if n_spikes > 0:
             p_all_gt0 = float((y_all_f > 0).mean())
             p_all_lt0 = float((y_all_f < 0).mean())
@@ -341,8 +347,8 @@ with col_right:
             mean_all = float(y_all_f.mean())
             mean_cond = float(y_cond.mean())
             delta_mean = mean_cond - mean_all
-            st.write(f"Probability of positive surprise increase {p_all_gt0*100:.1f}% → {p_cond_gt0*100:.1f}%")
-            st.write(f"Probability of negative surprise decrease {p_all_lt0*100:.1f}% → {p_cond_lt0*100:.1f}%")
-            st.write(f"Spike quarters show {delta_mean:+.1f}% higher average EPS surprise.")
+            st.write(f"Probability of positive surprise increase {p_all_gt0*100:.1f}% → {p_cond_gt0*100:.1f}% in quarters with keyword traffic spikes")
+            st.write(f"Probability of negative surprise decrease {p_all_lt0*100:.1f}% → {p_cond_lt0*100:.1f}% in quarters with keyword traffic spikes")
+            st.write(f"Spike quarters show {delta_mean:+.1f}% higher average EPS surprise compared to all quarters.")
         else:
             st.write("No spike quarters in scope; summary not available.")

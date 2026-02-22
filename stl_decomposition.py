@@ -196,9 +196,12 @@ def compute_event_features(
         dict with event features
     """
     t_p = ev.idxmax()
-    peak_z_e = ev.max()
-    area_z_e = ev.clip(lower=0).sum()
     
+    #TODO: peak_z_e is not normalized to the event window or any other. Normalize
+    peak_z_e = ev.max()
+    
+    #TODO: area_z_e is not normalized to the event window or any other. Normalize
+    area_z_e = ev.clip(lower=0).sum()
     duration_e = len(ev)
     seasonal_surprise_e = ev_cal.loc[t_p]
     
@@ -810,8 +813,8 @@ def run_full_pipeline(
     post=8,
     tail=4,
     shift_thr=0.5,
-    require_min_change=False,
-    min_change_fraction=0.10,
+    require_min_change=True,
+    min_change_fraction=0.20,
     pre_weeks_for_avg=4,
     save_events=True,
     save_quarter_events=True,
