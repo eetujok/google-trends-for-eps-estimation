@@ -2,7 +2,9 @@
 
 # Branded Keyword Spike Impact on Earnings Surprises
 
-Full analysis and workflow in the project.ipynb
+Dashboard to illustrate workflow and methodology: https://app-trends-for-eps-estimation-z5u2akzbghvexqv8sz6psm.streamlit.app/
+
+Full analysis and workflow in the notebook project.ipynb
 
 0. Introduction
 
